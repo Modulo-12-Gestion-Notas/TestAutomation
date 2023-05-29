@@ -1,0 +1,15 @@
+# Carpeta de resultados y reportes generados por Serenity
+target/
+
+# Archivo de configuración local o personalizado
+config.local
+
+# Archivos de dependencias o bibliotecas descargadas por Gradle
+.gradle/
+build/
+
+# Archivos de registro o logs generados durante la ejecución de las pruebas
+*.log
+
+# Archivos temporales o generados automáticamente
+*.tmp
